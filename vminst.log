@@ -1,0 +1,428 @@
+2021-12-31T13:40:59.348+08:00| inst-build-16894299| I1: MsiUtil_GetPropertyString: Getting Property VMCheckRunningProcesses = vmware-vmx.exe;vmware-vmx-debug.exe;vmware-vmx-stats.exe;vmnetcfg.exe;vmware.exe;vmplayer.exe;vmrest.exe;containerd.exe;containerd-shim-crx-v2.exe;vctl.exe
+2021-12-31T13:40:59.348+08:00| inst-build-16894299| I1: MsiUtil_SetProperty: Setting property RunningProcesses = 
+2021-12-31T13:40:59.348+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.349+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.349+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmware-vmx.exe
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.353+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmware-vmx-debug.exe
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.357+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmware-vmx-stats.exe
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.361+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmnetcfg.exe
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.365+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmware.exe
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.369+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmplayer.exe
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.373+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.376+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.376+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.376+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vmrest.exe
+2021-12-31T13:40:59.376+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.377+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.377+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.381+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.381+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.381+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: containerd.exe
+2021-12-31T13:40:59.381+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.381+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.382+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.385+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.385+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.385+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: containerd-shim-crx-v2.exe
+2021-12-31T13:40:59.385+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library kernel32.dll(1977090048)
+2021-12-31T13:40:59.385+08:00| inst-build-16894299| I1: Util_LoadLibrary: Loaded library psapi.dll(1983184896)
+2021-12-31T13:40:59.386+08:00| inst-build-16894299| E1: Util_SetPrivilege: The token does not have the specified privilege.
+2021-12-31T13:40:59.389+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1977090048
+2021-12-31T13:40:59.389+08:00| inst-build-16894299| I1: Util_FreeLibrary: Freeing library: 1983184896
+2021-12-31T13:40:59.389+08:00| inst-build-16894299| I1: Util_IsProcessRunning: Could not find running process: vctl.exe
+2021-12-31T13:40:59.389+08:00| inst-build-16894299| I1: MsiUtil_SetProperty: Setting property RunningProcesses = 
+2021-12-31T13:41:01.863+08:00| inst-build-16894299| E1: InitializeCom: CoInitializeSecurity already be called.
+2021-12-31T13:41:01.875+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Connected to Wbem COM service
+2021-12-31T13:41:02.534+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-PrintToPDFServices-Features installstate is: 1.
+2021-12-31T13:41:02.534+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-XPSServices-Features installstate is: 1.
+2021-12-31T13:41:02.534+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature TelnetClient installstate is: 2.
+2021-12-31T13:41:02.534+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature TFTP installstate is: 2.
+2021-12-31T13:41:02.534+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature LegacyComponents installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature DirectPlay installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SimpleTCP installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Windows-Identity-Foundation installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature NetFx3 installstate is: 1.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-HTTP-Activation installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-NonHTTP-Activation installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WebServerRole installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WebServer installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-CommonHttpFeatures installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpErrors installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpRedirect installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ApplicationDevelopment installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-Security installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-RequestFiltering installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-NetFxExtensibility installstate is: 2.
+2021-12-31T13:41:02.535+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-NetFxExtensibility45 installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HealthAndDiagnostics installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpLogging installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-LoggingLibraries installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-RequestMonitor installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpTracing installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-URLAuthorization installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-IPSecurity installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-Performance installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpCompressionDynamic installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WebServerManagementTools installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ManagementScriptingTools installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-IIS6ManagementCompatibility installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-Metabase installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WAS-WindowsActivationService installstate is: 2.
+2021-12-31T13:41:02.536+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WAS-ProcessModel installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WAS-NetFxEnvironment installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WAS-ConfigurationAPI installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HostableWebCore installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-Services45 installstate is: 1.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-HTTP-Activation45 installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-TCP-Activation45 installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-Pipe-Activation45 installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-MSMQ-Activation45 installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WCF-TCP-PortSharing45 installstate is: 1.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-StaticContent installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-DefaultDocument installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-DirectoryBrowsing installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WebDAV installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WebSockets installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ApplicationInit installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ASPNET installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ASPNET45 installstate is: 2.
+2021-12-31T13:41:02.537+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ASP installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-CGI installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ISAPIExtensions installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ISAPIFilter installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ServerSideIncludes installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-CustomLogging installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-BasicAuthentication installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-HttpCompressionStatic installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ManagementConsole installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-ManagementService installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-WMICompatibility installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-LegacyScripts installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-LegacySnapIn installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-FTPServer installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-FTPSvc installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature IIS-FTPExtensibility installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-Container installstate is: 2.
+2021-12-31T13:41:02.538+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-DCOMProxy installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-Server installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-HTTP installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-Multicast installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSMQ-Triggers installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MediaPlayback installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WindowsMediaPlayer installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SearchEngine-Client-Package installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MSRDC-Infrastructure installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature TIFFIFilter installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MicrosoftWindowsPowerShellV2Root installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature MicrosoftWindowsPowerShellV2 installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature NetFx4-AdvSrvs installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature NetFx4Extended-ASPNET45 installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SMB1Protocol-Deprecation installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Client-ProjFS installstate is: 2.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Windows-Defender-Default-Definitions installstate is: 3.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature WorkFolders-Client installstate is: 1.
+2021-12-31T13:41:02.539+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SMB1Protocol installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SMB1Protocol-Client installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature SMB1Protocol-Server installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Internet-Explorer-Optional-amd64 installstate is: 1.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-Foundation-Features installstate is: 1.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-Foundation-InternetPrinting-Client installstate is: 1.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-Foundation-LPDPrintService installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Printing-Foundation-LPRPortMonitor installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature Microsoft-Windows-Subsystem-Linux installstate is: 1.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature HypervisorPlatform installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: Receive feature VirtualMachinePlatform installstate is: 2.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| E1: WMI_GetWindowsOptFeatureList: enumerate feature objects done.
+2021-12-31T13:41:02.540+08:00| inst-build-16894299| I1: MsiUtil_SetProperty: Setting property VMHyperVOpt_SkipOptFeatureDlg = 1
+2021-12-31T13:41:15.156+08:00| inst-build-16894299| I1: MsiUtil_SetProperty: Setting property LicenseExists = 
+2021-12-31T13:41:15.156+08:00| inst-build-16894299| I1: MsiUtil_GetPropertyString: Getting Property LicenseRegPath = 
+2021-12-31T13:41:15.156+08:00| inst-build-16894299| I1: MsiUtil_GetPropertyString: Getting Property LicenseRegMatchingString = License.ws.11.0
+2021-12-31T13:41:23.096+08:00| inst-build-16894299| I1: MsiUtil_GetPropertyString: Getting Property Installed = 
+2021-12-31T13:41:23.096+08:00| inst-build-16894299| I1: MsiUtil_GetPropertyString: Getting Property ProductName = VMware Workstation
+2021-12-31T13:41:23.097+08:00| inst-build-16894299| I0: Starting VMware Workstation installation: Releasebuild-16894299
+2021-12-31T13:43:18.980+08:00| inst-build-16894299| I0: [Resource] LOG_INST_NAME = <not defined>
+2021-12-31T13:43:18.980+08:00| inst-build-16894299| I0: [Resource] LOG_MSI_NAME = <not defined>
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Operating system info:
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Admin install = TRUE
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Major version = 10
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Minor version = 0
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Service pack  = 0
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Build number  = 19042
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Bitness       = 64-bit
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0:    Platform      = NT
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Running from: "d:\Download folder\Compressed\VMwareWorkstation16\VMware 16.exe"
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] LOG_CMD = <not defined>
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Setup feature: LOG_CMD is enabled
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Command line: /x
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] MINORUPGRADE = 0
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Performing standard MSI install/major upgrade
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] PRODUCT_REG_NAME = <not defined>
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Silent installation = FALSE
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: Upgrade at shutdown = FALSE
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] SKIPADMINCHECK = <not defined>
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] OPERATION = INSTALLUPD
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] PRODUCTNAME = VMware Workstation
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] UPGRADECODE = {14F539F3-C4A4-4597-A29D-8C1D753ACC93}
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] PRODUCTCODE = {D51F496C-D02A-4AFA-AB43-F61B94462C9E}
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] LANGUAGES = 1041 2052
+2021-12-31T13:43:18.980+08:00| BootStrapper-build-16894299| I0: [Resource] VM_DATABASE64 = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VM_DATABASE = VMwareWorkstation.msi
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] SFXINSERT = 1748992
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VMIOPTION = one
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] CACHEMSI = 1
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: Cache MSI set to TRUE
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] MINIMUM_9X_MSI = 200
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] MINIMUM_NT_MSI = 300
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] INSTMSIW = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VCRUNTIME32 = vcredist_x86.exe
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VCRUNTIME64 = vcredist_x64.exe
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VCRUNTIME32_ALT = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] VCRUNTIME64_ALT = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] PROPERTIES = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] OLDCODES = 
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Resource] HELPER_UI = <not defined>
+2021-12-31T13:43:18.981+08:00| BootStrapper-build-16894299| I0: [Info] Loading splash bitmap from resource id 1033.
+2021-12-31T13:43:18.987+08:00| BootStrapper-build-16894299| I0: [Info] Loaded splash bitmap from resource 1033.
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: UI thread started successfully
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: The user's default locale is 1033
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Total unpacked size will be 618 MB (647568680 bytes)
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: [Resource] REQ_MB_SPACE = <not defined>
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Total space required to unpack is 792 MB (829511216 bytes)
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Attempting to find best location for unpacking temporary installation files
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Examining drive for temp folder "C:\Users\UDAYANA\AppData\Local\Temp\"
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Local fixed drive C: has 31517 MB (33047486464 bytes) free
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: Local fixed drive D: has 329386 MB (345386168320 bytes) free
+2021-12-31T13:43:19.046+08:00| BootStrapper-build-16894299| I0: CurrentLocation "C:\Users\UDAYANA\AppData\Local\Temp\{D51F496C-D02A-4AFA-AB43-F61B94462C9E}~setup\"
+2021-12-31T13:43:19.047+08:00| BootStrapper-build-16894299| I2: Util_IsDirectory: Not a directory: C:\Users\UDAYANA\AppData\Local\Temp\{D51F496C-D02A-4AFA-AB43-F61B94462C9E}~setup\| winerror code 2 (The system cannot find the file specified.)
+2021-12-31T13:43:19.047+08:00| BootStrapper-build-16894299| I2: Util_CreateFullPath: Creating directory 'C:\Users\UDAYANA\AppData\Local\Temp\{D51F496C-D02A-4AFA-AB43-F61B94462C9E}~setup\'
+2021-12-31T13:43:19.047+08:00| BootStrapper-build-16894299| I0: Selecting "C:\Users\UDAYANA\AppData\Local\Temp\{D51F496C-D02A-4AFA-AB43-F61B94462C9E}~setup\" for unpacking temp files
+2021-12-31T13:43:19.047+08:00| BootStrapper-build-16894299| I0: Extracting setup files to "C:\Users\UDAYANA\AppData\Local\Temp\{D51F496C-D02A-4AFA-AB43-F61B94462C9E}~setup\"
+2021-12-31T13:43:19.048+08:00| BootStrapper-build-16894299| I0:   --> VMwareWorkstation.msi [618143744]
+2021-12-31T13:43:19.048+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.050+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.051+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.052+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.052+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.052+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.052+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.052+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.053+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.053+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.053+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.053+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.054+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.054+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.055+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.055+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.055+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.056+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.057+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.057+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.058+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.058+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.059+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.060+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.062+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.063+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.064+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.065+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.065+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.065+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.066+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.066+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.066+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.066+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.067+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.068+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.069+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.070+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.071+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 0.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 1.
+2021-12-31T13:43:19.072+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 2.
+2021-12-31T13:43:19.075+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 3.
+2021-12-31T13:43:19.078+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 4.
+2021-12-31T13:43:19.082+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 5.
+2021-12-31T13:43:19.085+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 6.
+2021-12-31T13:43:19.089+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 7.
+2021-12-31T13:43:19.093+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 8.
+2021-12-31T13:43:19.139+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 9.
+2021-12-31T13:43:19.184+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 10.
+2021-12-31T13:43:19.229+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 11.
+2021-12-31T13:43:19.274+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 12.
+2021-12-31T13:43:19.322+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 13.
+2021-12-31T13:43:19.367+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 14.
+2021-12-31T13:43:19.412+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 15.
+2021-12-31T13:43:19.457+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 16.
+2021-12-31T13:43:19.503+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 17.
+2021-12-31T13:43:19.548+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 18.
+2021-12-31T13:43:19.592+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 19.
+2021-12-31T13:43:19.635+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 20.
+2021-12-31T13:43:19.681+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 21.
+2021-12-31T13:43:19.725+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 22.
+2021-12-31T13:43:19.769+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 23.
+2021-12-31T13:43:19.815+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 24.
+2021-12-31T13:43:19.861+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 25.
+2021-12-31T13:43:19.905+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 26.
+2021-12-31T13:43:19.950+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 27.
+2021-12-31T13:43:19.999+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 28.
+2021-12-31T13:43:20.044+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 29.
+2021-12-31T13:43:20.091+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 30.
+2021-12-31T13:43:20.136+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 31.
+2021-12-31T13:43:20.183+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 32.
+2021-12-31T13:43:20.228+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 33.
+2021-12-31T13:43:20.272+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 34.
+2021-12-31T13:43:20.318+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 35.
+2021-12-31T13:43:20.363+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 36.
+2021-12-31T13:43:20.407+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 37.
+2021-12-31T13:43:20.452+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 38.
+2021-12-31T13:43:20.497+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 39.
+2021-12-31T13:43:20.545+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 40.
+2021-12-31T13:43:20.590+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 41.
+2021-12-31T13:43:20.636+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 42.
+2021-12-31T13:43:20.684+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 43.
+2021-12-31T13:43:20.729+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 44.
+2021-12-31T13:43:20.775+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 45.
+2021-12-31T13:43:20.821+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 46.
+2021-12-31T13:43:20.868+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 47.
+2021-12-31T13:43:20.913+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 48.
+2021-12-31T13:43:20.958+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 49.
+2021-12-31T13:43:21.003+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 50.
+2021-12-31T13:43:21.049+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 51.
+2021-12-31T13:43:21.093+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 52.
+2021-12-31T13:43:21.137+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 53.
+2021-12-31T13:43:21.182+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 54.
+2021-12-31T13:43:21.230+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 55.
+2021-12-31T13:43:21.276+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 56.
+2021-12-31T13:43:21.322+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 57.
+2021-12-31T13:43:21.369+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 58.
+2021-12-31T13:43:21.415+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 59.
+2021-12-31T13:43:21.462+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 60.
+2021-12-31T13:43:21.506+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 61.
+2021-12-31T13:43:21.554+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 62.
+2021-12-31T13:43:21.598+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 63.
+2021-12-31T13:43:21.643+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 64.
+2021-12-31T13:43:21.688+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 65.
+2021-12-31T13:43:21.734+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 66.
+2021-12-31T13:43:21.779+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 67.
+2021-12-31T13:43:21.824+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 68.
+2021-12-31T13:43:21.867+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 69.
+2021-12-31T13:43:21.915+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 70.
+2021-12-31T13:43:21.961+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 71.
+2021-12-31T13:43:22.008+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 72.
+2021-12-31T13:43:22.055+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 73.
+2021-12-31T13:43:22.100+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 74.
+2021-12-31T13:43:22.147+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 75.
+2021-12-31T13:43:22.192+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 76.
+2021-12-31T13:43:22.239+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 77.
+2021-12-31T13:43:22.283+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 78.
+2021-12-31T13:43:22.328+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 79.
+2021-12-31T13:43:22.373+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 80.
+2021-12-31T13:43:22.419+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 81.
+2021-12-31T13:43:22.464+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 82.
+2021-12-31T13:43:22.509+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 83.
+2021-12-31T13:43:22.553+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 84.
+2021-12-31T13:43:22.601+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 85.
+2021-12-31T13:43:22.646+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 86.
+2021-12-31T13:43:22.692+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 87.
+2021-12-31T13:43:22.740+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 88.
+2021-12-31T13:43:22.786+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 89.
+2021-12-31T13:43:22.832+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 90.
+2021-12-31T13:43:22.878+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 91.
+2021-12-31T13:43:22.925+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 92.
+2021-12-31T13:43:22.968+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 93.
+2021-12-31T13:43:23.014+08:00| BootStrapper-build-16894299| I0: SetupProgressDlgProc: Current progress 94.
+2021-12-31T13:43:23.034+08:00| BootStrapper-build-16894299| I0:   --> vcredist_x86.exe [14364440]
+2021-12-31T13:43:23.135+08:00| BootStrapper-build-16894299| I0:   --> vcredist_x64.exe [15060496]
+2021-12-31T13:43:23.240+08:00| BootStrapper-build-16894299| I0: Setup exit code is: 0
+2021-12-31T13:43:23.240+08:00| inst-build-16894299| I2: Util_FileExists: Found "C:\Users\UDAYANA\AppData\Local\Temp\vminst.log"
+2021-12-31T13:43:23.241+08:00| inst-build-16894299| I2: Util_FileExists: Did not find file/directory: "C:\Users\UDAYANA\AppData\Local\Temp\vmmsi.log"| posix code 2 (No such file or directory)
