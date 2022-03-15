@@ -1,0 +1,291 @@
+@import "lib/bootstrap-grid.min";
+
+@font-face {
+    font-family: 'minecraftmedium';
+    src: url('/ezcheatclient/assets/fonts/minecraft-webfont.woff2') format('woff2'),
+         url('/ezcheatclient/assets/fonts/minecraft-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a {
+	color: cyan;
+}
+
+.important {
+	color: orange;
+	text-shadow: 1px 1px 5px rgba(0,0,0,0.20);
+	font-weight: bold;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.h-100 { height: 100%; }
+.w-100 { width: 100%; }
+
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.text-left { text-align: left; }
+
+body {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 24px;
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.40);
+}
+
+button {
+	font-family: 'minecraftmedium';
+	border-top: 2px solid #a8a8a8;
+	border-left: 2px solid #a8a8a8;
+	border-bottom: 4px solid #585858;
+	border-right: 2px solid #585858;
+	background-color: #6f6f6f;
+	font-weight: normal;
+	color: white;
+	height: 30px;
+	outline: none;
+	font-size: 16px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	padding: 0px 30px;
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 0px 0px 2px #000;
+	&:hover {
+		box-shadow: 0px 0px 0px 2px #FFF;
+	}
+}
+
+.panel {
+	max-width: 560px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	padding-top: 37px;
+	.panel-nav {
+		position: absolute;
+		z-index: 10;
+		left: 0px;
+		top: 0px;
+		ul {
+			list-style: none;
+			margin: 0px;
+			padding: 0px;
+			li {
+				display: block;
+				float: left;
+				position: relative;
+				margin-right: 6px;
+				background-color: red;
+				border-top-left-radius: 3px;
+				border-top-right-radius: 3px;
+				border-top: 4px solid #ffffff;
+				border-left: 4px solid #ffffff;
+				border-right: 4px solid #555555;
+				box-shadow: 0px 0px 0px 2px #000;
+				background-color: #8b8b8b;
+				font-family: 'minecraftmedium';
+				font-size: 16px;
+				line-height: 28px;
+				padding: 2px 15px 1px 15px;
+				cursor: pointer;
+			  -webkit-touch-callout: none; /* iOS Safari */
+			    -webkit-user-select: none; /* Safari */
+			     -khtml-user-select: none; /* Konqueror HTML */
+			       -moz-user-select: none; /* Old versions of Firefox */
+			        -ms-user-select: none; /* Internet Explorer/Edge */
+			            user-select: none; /* Non-prefixed version, currently
+			                                  supported by Chrome, Edge, Opera and Firefox */
+				&.active {
+					background-color: #c6c6c6;
+					top: -3px;
+					padding-bottom: 3px;
+					padding-top: 3px;
+					&:after {
+						content: "";
+						width: calc(100% + 8px);
+						height: 7px;
+						position: absolute;
+						bottom: -6px;
+						left: -4px;
+						box-sizing: border-box;
+						border-left: 4px solid #ffffff;
+						border-right: 4px solid #555555;
+						background-color: #c6c6c6;
+					}
+					&:first-child {
+						&:before {
+							content: "";
+							width: 1px;
+							height: 4px;
+							position: absolute;
+							bottom: -5px;
+							left: -6px;
+							background-color: black;
+						}
+					}
+				}
+			}
+		}
+	}
+	.panel-content {
+		position: relative;
+		border-radius: 3px;
+		border-top: 4px solid #ffffff;
+		border-left: 4px solid #ffffff;
+		border-right: 4px solid #555555;
+		border-bottom: 4px solid #555555;
+		background-color: #c6c6c6;
+		box-shadow: 0px 0px 0px 2px #000;
+		box-sizing: border-box;
+		width: 100%;
+		.panel-content-inner {
+			background-color: #8b8b8b;
+			border-left: 2px solid #373737;
+			border-top: 2px solid #373737;
+			border-bottom: 2px solid #ffffff;
+			border-right: 2px solid #ffffff;
+			box-sizing: border-box;
+			padding: 15px;
+			margin: 5px;
+		}
+		.pane {
+			width: 100%;
+			padding: 5px;
+			display: none;
+			box-sizing: border-box;
+			text-shadow: 1px 1px 3px rgba(0,0,0,0.75);
+			&.active {
+				display: block;
+			}
+			.pane-content {
+
+			}
+			p {
+				margin-top: 0px;
+				margin-bottom: 15px;
+				&:last-child {
+					margin-bottom: 0px;
+				}
+			}
+			li { margin-bottom: 5px; }
+		}
+	}
+	iframe { width: 100%; height: 320px; line-height: 0px; }
+}
+
+table {
+	width: 100%;
+	margin-bottom: 10px;
+	td, th {
+		text-align: left;
+	}
+}
+
+.no-padding { padding: 0px !important; line-height: 0px; }
+
+.label {
+	color: orange;
+}
+
+.desc {
+	font-size: 15px;
+	vertical-align: center;
+}
+
+.status {
+	font-size: 12px;
+}
+
+.green { color: lime; }
+
+#page {
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	//background-color: rgba(0,0,0,0.25);
+}
+
+.seperator {
+	width: 100%;
+	height: 2px;
+	background-color: #c6c6c6;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.v {
+	position: absolute;
+	right: 20px;
+	bottom: 16px;
+	font-size: 12px;
+	color: #cecece;
+	text-shadow: none;
+}
+
+h2 { 
+	margin-top: 20px; 
+	margin-bottom: 10px; 
+	margin-right: 10px;
+	&:first-child {
+		margin-top: 0px;
+	}
+}
+
+h3 { margin-left: 10px; margin-bottom: 0px; font-size: 18px; }
+
+h3 + ol { margin-top: 5px; }
+
+#keep {
+	
+	display: none;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	z-index: 99;
+	img {
+		box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
+		width: 450px;
+		height: auto;
+		line-height: 0px;
+	}
+}
+
+.video-background {
+  position: relative;
+  overflow: hidden;
+  z-index: 9;
+  width: 100vw;
+  height: 100vh;
+
+  iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+
+    @media (min-aspect-ratio: 16/9) {
+      height: 56.25vw
+    }
+
+    @media (max-aspect-ratio: 16/9) {
+      width: 177.78vh
+    }
+  }
+}
